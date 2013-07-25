@@ -24,7 +24,7 @@
 " page for subscribing to the mailing list:
 "
 "       http://groups.yahoo.com/group/taglist/
-"
+ let Tlist_Ctags_Cmd = '/usr/local/bin/ctags'
 " For more information about using this plugin, after installing the
 " taglist plugin, use the ":help taglist" command.
 "
